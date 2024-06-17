@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Data
+data/
+
+# Environment
+venv/
+
+# Artifacts
+artifact/*.h5
+artifact/*.csv
