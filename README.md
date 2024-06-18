@@ -51,7 +51,7 @@ That didn't seem to be the case, however.
 
 #### Discriminator
 
-![](./artifact/Generator%20Weight%20Distributions.png)
+![](./artifact/Discriminator%20Weight%20Distributions.png)
 
 ### The Emojis
 
